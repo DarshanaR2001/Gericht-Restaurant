@@ -1,0 +1,16 @@
+.app__wrapper_info h1 {
+  margin-bottom: 1rem;
+}
+
+.app__wrapper_info button {
+  margin-top: 2rem;
+}
+
+.app__wrapper-content p:first-child {
+  font-size: 14px;
+}
+
+.app__wrapper-content p:nth-child(2) {
+  color: #DCCA87;
+  margin: 1rem 0;
+}
